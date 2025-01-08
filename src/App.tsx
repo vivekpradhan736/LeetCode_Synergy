@@ -176,7 +176,7 @@ const Popup: React.FC = () => {
             <p className="text-sm">
               Want more features?&nbsp;
               <a
-                href="https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension/issues/new"
+                href="https://github.com/vivekpradhan736/LeetCode_Synergy/issues/new"
                 className="text-blue-500 hover:underline"
                 target="_blank"
               >
